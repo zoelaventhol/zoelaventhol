@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Zoe! 👋
 
 <!--
 **zoelaventhol/zoelaventhol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🌟 Hello, I'm [Your Name]! 🌍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a **full stack developer** with a passion for environmental and social justice. I love building practical tools that help people, and making tech accessible to everyone.
+
+- 🤓 I’m currently working at CodeOp
+- 🌱 I’m currently learning about app architecture and AI
+- 🤖 Programming languages & frameworks: Javascript, Python, C, React, Vue, Node.js/Express, Flask, FastAPI
+- 💬 Human languages: English (native), Spanish (advanced), Portuguese (advanced), Arabic (Darija - intermediate)
+- 😄 Pronouns: she / her
+
+🚀 [Connect](https://linkedin.com/in/zoe-laventhol) if you want to collaborate!
 -->
